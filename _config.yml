@@ -1,0 +1,22 @@
+# Site settings
+title: Tong Zhangjun
+description: Tong Zhangjun Github Website
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Tong Zhangjun
+user_description: Hey there! I¡¯m really looking forward to connecting with you. As a designer, engineer, athlete, and lifelong learner, each role adds a distinct perspective and skill set to my life. I¡¯m passionate about combining art and science to create innovative designs that are both aesthetically pleasing and functional. I utilize design thinking in various areas of life, addressing challenges and improving experiences for everyone. My background in athletics has also provided me with courage and resilience to confront different obstacles directly. Furthermore, as someone committed to lifelong learning, I remain open and eager to discover new opportunities and grow personally. I have significant experience collaborating with international teams from various countries, including the United States, Japan, Canada, Australia, France, and more. Welcome aboard! Let¡¯s begin this journey of curiosity and creativity together!
+user_title: Designer, Engineer, Athlete, and Lifelong Learner
+email: zongzitongtong@gmail.com
+# twitter_username: tongzhangjun
+instagram_username: tongzhangjun
+facebook_username: tongzhangjun
+linkedin_username: tongzhangjun
+github_username:  tongzhangjun
+# medium_username: tongzhangjun
+# medium_url: tongzhangjun.medium.com
+# gplus_username: tongzhangjun
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
